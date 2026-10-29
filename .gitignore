@@ -1,0 +1,15 @@
+# Datos (se descargan de Kaggle) y ficheros intermedios
+X.csv
+target.csv
+data/
+*.pkl
+
+# Versiones de trabajo y notas internas
+paso_*/
+ecl_proyect.ipynb
+ecl_ead_lgd.ipynb
+comprobacion_nulos.ipynb
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
